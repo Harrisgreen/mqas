@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C25-F1F4
+
+ Directory of C:\Users\Anusha\mqas
+
+18-11-2019  12:41    <DIR>          .
+18-11-2019  12:41    <DIR>          ..
+18-11-2019  12:38               369 h1.txt
+18-11-2019  12:41                 0 harsha.txt
+18-11-2019  12:38               325 mqas.txt
+               3 File(s)            694 bytes
+               2 Dir(s)  115,486,744,576 bytes free
