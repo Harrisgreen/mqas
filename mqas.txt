@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 18F8-3C4C
+
+ Directory of E:\MqasGit
+
+18-11-2019  12:12    <DIR>          .
+18-11-2019  12:12    <DIR>          ..
+18-11-2019  12:12                 0 mqas.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  269,569,036,288 bytes free
